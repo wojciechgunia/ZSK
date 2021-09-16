@@ -1,5 +1,5 @@
 <?php
-
+  //
   echo "ZSK<br>";
   echo "ZSK";
 
@@ -52,4 +52,16 @@
 
   E;
   echo $tekst;
+
+  //nowdoc
+  echo <<< 'E'
+    <hr><hr>
+    Imię i nazwisko:
+    Janusz $surname <br>
+    Poznań
+
+  E;
+
+  //nzawa zmiennej
+  echo "<hr><br>Nazwa zmiennej: \$surname";
  ?>
