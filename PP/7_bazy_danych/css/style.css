@@ -1,0 +1,25 @@
+table, td, tr, th
+{
+  border: 1px solid black;
+  text-align: center;
+  padding: 8px;
+  border-collapse: collapse;
+}
+
+#ramka
+{
+  padding: 20px;
+  border: 1.5px solid black;
+  border-radius: 15px;
+  margin: 20px;
+  width: 830px;
+}
+
+#ramka2
+{
+  padding: 20px;
+  border: 1.5px solid black;
+  border-radius: 15px;
+  margin: 20px;
+  width: 830px;
+}
